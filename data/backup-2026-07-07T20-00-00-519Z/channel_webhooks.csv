@@ -1,0 +1,2 @@
+id,channel_id,webhook_url,guild_id,failure_count,last_failure_at,is_active,disabled_reason,created_at,updated_at,send_bot_messages,registered_by_admin_id
+1,"1523980166177624175","http://n8n:5678/webhook/discord-codeharmonix","1291153672784580669",0,,true,,Tue Jul 07 2026 13:43:13 GMT+0000 (Coordinated Universal Time),Tue Jul 07 2026 19:50:33 GMT+0000 (Coordinated Universal Time),false,"418328164113186816"
